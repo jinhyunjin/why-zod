@@ -2,7 +2,8 @@
 
 - TypeScript-first schema declaration and validation library.
 - Runtime library for validating values and shapes in TypeScript.
-- Zod is designed to be as developer-friendly as possible. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It's easy to compose simpler types into complex data structures.
+- Designed to be as developer-friendly as possible. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It's easy to compose simpler types into complex data structures.
+- **Zod Schema is our Source Of Types.**
 
 Some other great aspects:
 
