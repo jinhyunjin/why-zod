@@ -1,5 +1,7 @@
 # [why-zod](https://zod.dev/)
 
+[Zod.pdf](./zod.pdf)
+
 - TypeScript-first schema declaration and validation library.
 - Runtime library for validating values and shapes in TypeScript.
 - Designed to be as developer-friendly as possible. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It's easy to compose simpler types into complex data structures.
@@ -14,5 +16,3 @@ Some other great aspects:
 - Concise, chainable interface
 - Functional approach: parse, don't validate
 - Works with plain JavaScript too! You don't need to use TypeScript.
-
-[PDF 문서 보기](./zod.pdf)
