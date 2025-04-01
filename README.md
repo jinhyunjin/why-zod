@@ -14,3 +14,5 @@ Some other great aspects:
 - Concise, chainable interface
 - Functional approach: parse, don't validate
 - Works with plain JavaScript too! You don't need to use TypeScript.
+
+[PDF 문서 보기](./zod.pdf)
